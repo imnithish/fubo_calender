@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by Nitheesh Ag on 16/09/22, 6:19 AM
+  -->
+
+<resources>
+
+    <style name="Theme.FuboCalender" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/purple_700</item>
+    </style>
+</resources>
